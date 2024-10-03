@@ -1,4 +1,4 @@
-# Funkin-Assets
+## Funkin-Assets
 
 This repository contains the contents of the `assets` folder, and contains textures, music/sounds, fonts, and other game data used by Friday Night Funkin'.
 
